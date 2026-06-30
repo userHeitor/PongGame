@@ -31,3 +31,4 @@ g++ main.cpp bola.cpp raquete.cpp tabuleiro.cpp jogador.cpp persistencia.cpp jog
 ## Observação
 
 O jogo **não funciona no terminal do Colab ou Linux**. Execute localmente no Windows.
+É necessário estar dentro da pasta contendo os arquivos para compilar.
